@@ -1,0 +1,16 @@
+{
+  "name": "url_shortner",
+  "version": "1.0.0",
+  "description": "In this repo i will be making URL Sortner to enhance my nodeJs skill of routes and redirection",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "mongoose": "^8.8.3",
+    "nodemon": "^3.1.7"
+  }
+}
